@@ -20,10 +20,11 @@ Java Portfolio
 
 6) Program#6……………………………………………...…Book4
 * The purpose of this program is to assign letter grades (A, B, C, D, F) to students calculate the average, min and max grades. Also, read from a data file.  
+* Reading from prog6data.txt file.
 
 7) Program#7………………………………………………...Book5
 * The purpose of this program is to calculate the overtime pay of the Payroll Company and display all employees from reading from a data file.
-* Reading from prog7data.txt file
+* Reading from prog7data.txt file.
 
 8) Program#8………………………………………………...Book6
 * The purpose of this program is to calculate the overtime pay of the Payroll Company and display a individual employees from reading from a data file.

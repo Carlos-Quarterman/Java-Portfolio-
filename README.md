@@ -1,9 +1,9 @@
-# Java-Portfolio-
+# Java-Portfolio
 Java Portfolio
 
 1) Program#1(Part1a)…………………………...………....Book 10
 * The purpose of this program is menu driven and to calculate the simple interest, volume of a cube, area of a circle, and the volume of a cone. 
-1.A) (Part1b)…………………………………………….…….Book_1
+__1.A) (Part1b)…………………………………………….…….Book_1
 * The purpose of this program is to calculate the simple interest, area of a circle, volume of a cone, volume of a cube. 
 
 2) Program#2………………………………………...………Book1

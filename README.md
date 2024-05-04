@@ -1,36 +1,47 @@
-# Java-Portfolio
-Java Portfolio
+# Java Portfolio
 
-1) Program#1(Part1a)…………………………...………....Book 10
-* The purpose of this program is menu driven and to calculate the simple interest, volume of a cube, area of a circle, and the volume of a cone. 
-__1.A) (Part1b)…………………………………………….…….Book_1
-* The purpose of this program is to calculate the simple interest, area of a circle, volume of a cone, volume of a cube. 
+This repository contains a collection of Java programs showcasing various functionalities and concepts.
 
-2) Program#2………………………………………...………Book1
-* The purpose of this program is to calculate amount a customer should be charged at The Maripot Carpet store.
+## Program#1 (Part1a) - Book 10
 
-3) Program#3……………………...…………………………Book2
-* The purpose of this program is to produce customers’ bills at the Caswell Catering and Convention Service.
+- **Description**: Menu-driven program that calculates simple interest, volume of a cube, area of a circle, and the volume of a cone.
 
-4) Program#4………………………………………….....…Book22
-* The purpose of this program is menu driven, read from a data file, JOption-Pane and to produce customers’ bills at the Caswell Catering and Convention Service.
+## Program#1 (Part1b) - Book 1
 
-5) Program#5………………………………………………...Book3
-* The purpose of this program is to print a monthly sales chart for the Child-Growth Encyclopedia Company.
+- **Description**: Program to calculate simple interest, area of a circle, volume of a cone, and volume of a cube.
 
-6) Program#6……………………………………………...…Book4
-* The purpose of this program is to assign letter grades (A, B, C, D, F) to students calculate the average, min and max grades. Also, read from a data file.  
-* Reading from prog6data.txt file.
+## Program#2 - Book 1
 
-7) Program#7………………………………………………...Book5
-* The purpose of this program is to calculate the overtime pay of the Payroll Company and display all employees from reading from a data file.
-* Reading from prog7data.txt file.
+- **Description**: Calculates the amount a customer should be charged at The Maripot Carpet store.
 
-8) Program#8………………………………………………...Book6
-* The purpose of this program is to calculate the overtime pay of the Payroll Company and display a individual employees from reading from a data file.
+## Program#3 - Book 2
 
-9) Program#9……………………………………………...…Book7
-* The purpose of this program is to calculate monthly payment, print information, and print Amortization table. 
+- **Description**: Produces customers’ bills at the Caswell Catering and Convention Service.
 
-10) Program#10…………………………………………….....Book8
-* The purpose of this program is to design and implement a Roman Numeral Calculator.
+## Program#4 - Book 22
+
+- **Description**: Menu-driven program that reads from a data file, uses JOption-Pane, and produces customers’ bills at the Caswell Catering and Convention Service.
+
+## Program#5 - Book 3
+
+- **Description**: Prints a monthly sales chart for the Child-Growth Encyclopedia Company.
+
+## Program#6 - Book 4
+
+- **Description**: Assigns letter grades (A, B, C, D, F) to students, calculates the average, min, and max grades. Also, reads from a data file (prog6data.txt).
+
+## Program#7 - Book 5
+
+- **Description**: Calculates the overtime pay of the Payroll Company and displays all employees, reading from a data file (prog7data.txt).
+
+## Program#8 - Book 6
+
+- **Description**: Calculates the overtime pay of the Payroll Company and displays individual employees, reading from a data file.
+
+## Program#9 - Book 7
+
+- **Description**: Calculates monthly payment, prints information, and generates an Amortization table.
+
+## Program#10 - Book 8
+
+- **Description**: Designs and implements a Roman Numeral Calculator.
